@@ -1,9 +1,10 @@
 {
   "name": "facility-booking",
   "version": "1.0.0",
-  "description": "Facility booking system",
+  "description": "Terminal-based facility booking system",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jest"
   },
   "dependencies": {
@@ -12,6 +13,6 @@
   "devDependencies": {
     "jest": "^29.0.0"
   },
-  "author": "",
+  "author": "Akhilesh",
   "license": "ISC"
 }
