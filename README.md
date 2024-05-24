@@ -5,7 +5,7 @@ The Facility Booking System is a terminal-based application that allows resident
 ## Features
 
 - Book facilities such as Clubhouse and Tennis Court.
-- View available time slots for each facility.
+<!-- - View available time slots for each facility. -->
 - Prevent double booking of facilities.
 - Calculate booking costs based on facility rates.
 
